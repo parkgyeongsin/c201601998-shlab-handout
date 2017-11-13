@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * 201601998 박경신
+ * 201601998 parkgyeongsin
  */
 #include <stdio.h>
 #include <stdlib.h>
